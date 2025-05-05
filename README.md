@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Eliphaz Sakawa
 - 👀 I’m a data analyst with experience in R softaware and other analytical tools.
 - 🌱 Did a Bachelor's degree in statistics
-- 💞️ I’m currently working as a Credit analyst at Philmed LTD
+- 💞️ I’m currently working as a Senior Data analyst at Philmed LTD
 - 📫 I am available at; sakawaeliphaz@gmail.com
 - and via LinkedIn; www.linkedin.com/in/eliphaz-sakawa-a9a4b01b8
 
